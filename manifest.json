@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "班级星系 · 随机点名",
+  "short_name": "星光点名",
+  "description": "适合课堂使用的随机点名器，支持本地名单、多人抽取和离线使用。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#02040b",
+  "theme_color": "#02040b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
